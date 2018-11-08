@@ -1,4 +1,4 @@
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES 
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES
 ('Cash For Work', 'Cleaning', 400000, '2/11/16', '4/02/17'),
 ('Trash For Cash', 'Recycle', 1000000, '3/1/16', '4/02/16'),
 ('Feed The Poor', 'Humanitary', 50000000, '12/11/17', '14/02/18'),
@@ -63,5 +63,3 @@ INSERT INTO pledges (amount, user_id, project_id) VALUES
 (80.00, 7, 9),
 (930.00, 16, 7),
 (560.00, 1, 4);
-
-
